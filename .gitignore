@@ -6,6 +6,6 @@ dockerfiles/**/*.tar.gz
 .AppleDouble
 .LSOverride
 ._*
-.idea/
+.idea/*
 out/
 .idea_modules/
