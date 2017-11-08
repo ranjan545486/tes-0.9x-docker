@@ -1,0 +1,11 @@
+
+dockerfiles/**/*.tar.gz
+
+#development environment
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.idea/
+out/
+.idea_modules/
