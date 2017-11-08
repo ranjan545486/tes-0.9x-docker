@@ -19,7 +19,7 @@ Repository to host Docker file(s) to build docker images for the last Tribestrea
    Remember to copy the `tribestream-0.95.tar.gz`  file inside `dockerfiles/0.95/tarfile` folder before building the docker image.
 
     docker login
-    docker build -t tomitribe/tribestream-0.95:0.95 .
+    docker build -t tomitribe/tribestream-0.95:latest .
     docker push tomitribe/tribestream-0.95
     
     
